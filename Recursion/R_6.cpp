@@ -14,4 +14,3 @@ int main(){
     pattern1(n,cp);
     return 0;
 }
-
